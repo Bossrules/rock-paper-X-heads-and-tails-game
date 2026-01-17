@@ -1,0 +1,31 @@
+.heads-button, .tails-button, .rps-link, .reset-button {
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 8px 10px;
+  background-color: whitesmoke;
+  border: none;
+  border-radius: 5px;
+  background-color: lightgreen;
+  color: black;
+}
+
+.result-div{
+  margin-top: 15px;
+  margin-left: 18px;
+  color: lightgreen;
+}
+body{
+  background-color: black;
+  color: lightgreen;
+}
+p{
+  margin-left: 20px;
+}
+
+.choice-button{
+  background-color: lightgreen;
+  color: black;
+  border: none;
+  border-radius: 2px;
+  
+}

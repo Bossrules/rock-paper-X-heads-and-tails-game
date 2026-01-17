@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+  color: white;
+}
+p {
+  font-family: Arial;
+}
+
+.game-name {
+  font-weight: bold;
+  font-size: 25px;
+}
+.reset {
+  padding: 8px 10px;
+  
+}
+.display-result, .js-moves, .js-score{
+  font-size: 20px;
+}
+.playerMove{
+  background-color: transparent;
+  border: 3px solid whitesmoke;
+  margin-right: 10px;
+  height: 120px;
+  width: 120px;
+  border-radius: 60px;
+  padding: 10px;
+}
+.move-icon{
+  height: 70px;
+}
+.imgResult {
+  height: 50px;
+}
+
+.head-tail-link{
+  margin-top: 50px;
+  padding: 8px 10px;
+  background-color: whitesmoke;
+  border: solid;
+  border-radius: 5px;
+}
